@@ -22,7 +22,7 @@ A simple CLI tool written in Rust to convert files between JSON and YAML formats
 
 3. Move the binary to a directory in your PATH:
    ```bash
-   mv ./target/release/jsonyaml /usr/local/bin/
+   mv ./target/release/jsonyaml_convertor /usr/local/bin/jsonyaml
    ```
 
 ## Usage
